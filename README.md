@@ -23,3 +23,7 @@ python portfolio.py
 ```
 
 ## Sample Output
+AAPL:  10 shares × $180 = $1,800.00
+TSLA:   5 shares × $250 = $1,250.00
+
+Total Investment Value: $3,050.00
